@@ -1,7 +1,3 @@
-# Use gradio Chat With Google Gemma Models
-
-Demo : [https://huggingface.co/spaces/leokwsw/gradio_google_gemma](https://huggingface.co/spaces/leokwsw/gradio_google_gemma)
-
 ---
 title: Gradio Google Gemma
 emoji: 🌖
