@@ -1,2 +1,2 @@
-gradio
-huggingface_hub
+gradio~=4.19.1
+huggingface_hub~=0.20.3
